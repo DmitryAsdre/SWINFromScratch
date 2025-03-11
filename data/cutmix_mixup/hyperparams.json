@@ -1,0 +1,1 @@
+{"best_valid_ce": 0.3095529355108738, "best_valid_accuracy": 0.9056640625, "image_size": 32, "num_classes": 10, "batch_size": 256, "learning_rate": 0.001, "weight_decay": 0.1, "n_epochs": 700}
